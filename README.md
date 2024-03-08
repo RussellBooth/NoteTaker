@@ -4,9 +4,9 @@
 
   The purpose of this project is to have a note-taking application which allows me to save, review and delete notes from a single location
 
-  ![ScreenShot of index page](./screenshots/indexhtml_screenshot.png)
+  ![ScreenShot of index page](./screenshots/indexhtml screenshot.png)
 
-  ![ScreenShot of notes page](./screenshots/notes.html_screenshot.png)
+  ![ScreenShot of notes page](./screenshots/notes.html screenshot.png)
 
   Link to deployed app: https://immense-atoll-95398-dc6d207cef29.herokuapp.com/
   
